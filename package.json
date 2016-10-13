@@ -1,6 +1,6 @@
 {
   "name": "angular-disable-backspace-navigation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple angular 1 module to disable navigation via backspace",
   "main": "index.js",
   "scripts": {
